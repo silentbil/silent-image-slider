@@ -9,7 +9,7 @@ If you like my hard work and want to help with server cost, consider buying me a
 
 ## HACS Installation (Preferred option with updates)
 
-TBD
+TBD.
 
 ## HACS manual Installation
 - In the HACS Frontend, click the 3 dots in the upper right
