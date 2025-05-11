@@ -9,7 +9,7 @@ If you like my hard work and want to help with server cost, consider buying me a
 
 ## HACS Installation (Preferred option with updates)
 
-TBD.
+<a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=silentbil&repository=silent-image-slider&category=plugin" target="_blank"><img src="https://my.home-assistant.io/badges/hacs_repository.svg" alt="Open your Home Assistant instance and open a repository inside the Home Assistant Community Store." /></a>
 
 ## HACS manual Installation
 - In the HACS Frontend, click the 3 dots in the upper right
